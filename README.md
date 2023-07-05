@@ -17,5 +17,5 @@ Web Browser: [Mozilla Firefox]
 
 The test cases cover a wide range of scenarios to ensure thorough testing of the Blazedemo site. The test cases are categorized into different sections based on the features and functionalities being tested. Each test case includes a description, preconditions, steps to reproduce, and expected results.
 
-To view the detailed test cases report, please refer to the  file blazedemoreport.xlsx
+To view the detailed test cases report, please refer to the  file blazedemo report.xlsx
 
